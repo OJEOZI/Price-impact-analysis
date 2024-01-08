@@ -1,7 +1,7 @@
 ## PRICE IMPACT ANALYSIS
 
 ### Introduction
-From November 1st 2023, Sweettooth and cornerstore did a price increase on most of its products. By the end of that month it was pertinent to carry out an analysis of the effects(if any) of this price increase. To achieve this, a comparative analysis was carried out between the previous month; october, where products was sold at the old price and november when the new prices was implemented. This inquiry intended to go beyond mere eyes observation to get detailed specific facts about the price increase and advise and make recommendations to relevant departments aimed at the organisation's progresss. 
+From November 1st 2023, Sweettooth and cornerstore effected a price increase for most of their products. By the end of that month it was pertinent to carry out an analysis of the effects(if any) of this price increase. To achieve this, a comparative analysis was carried out between the previous month; october, where products was sold at the old price and november when the new prices was implemented. This inquiry intended to go beyond mere eyes observation to get detailed specific facts about the price increase and advise and make recommendations to relevant departments aimed at the organisation's progresss. 
 ### Basic goals of the project
 * Observe if there exist any relationship between unit price of products and total sales revenue for a period of time.
 * Observe the level of relationship (if any) between price of products and units of products customers tend to purchase.
